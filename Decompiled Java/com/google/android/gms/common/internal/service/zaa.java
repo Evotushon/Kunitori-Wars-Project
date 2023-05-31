@@ -1,0 +1,9 @@
+package com.google.android.gms.common.internal.service;
+
+import android.os.RemoteException;
+
+/* compiled from: com.google.android.gms:play-services-base@@17.2.1 */
+public class zaa extends zal {
+    public void zaj(int i) throws RemoteException {
+    }
+}

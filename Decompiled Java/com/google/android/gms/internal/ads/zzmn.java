@@ -1,0 +1,14 @@
+package com.google.android.gms.internal.ads;
+
+import java.io.IOException;
+
+/* compiled from: com.google.android.gms:play-services-ads@@19.0.1 */
+public interface zzmn {
+    boolean isReady();
+
+    int zzb(zzhb zzhb, zziv zziv, boolean z);
+
+    void zzeh(long j);
+
+    void zzhp() throws IOException;
+}
